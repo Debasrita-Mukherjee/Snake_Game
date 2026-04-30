@@ -44,9 +44,9 @@
 
 .head{
     background: linear-gradient(rgb(194, 102, 102), rgb(232, 232, 18));
-    border: 2px solid rgb(34, 4, 34); 
+    border: 2px solid rgb(12, 8, 12); 
     transform: scale(1.02);
-    border-radius: 9px;
+    border-radius: 10px;
 }
 
 .snake{
