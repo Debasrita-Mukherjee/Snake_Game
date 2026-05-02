@@ -33,7 +33,7 @@
 }
 
 #board{
-    background: linear-gradient(rgb(43, 134, 43), rgb(236, 236, 167));
+    background: linear-gradient(rgb(1, 75, 1), rgb(160, 160, 38));
     width: 90vmin;
     height: 92vmin;
     border: 2px solid rgb(9, 5, 5);
@@ -44,7 +44,7 @@
 
 .head{
     background: linear-gradient(rgb(194, 102, 102), rgb(232, 232, 18));
-    border: 2px solid rgb(12, 8, 12); 
+    border: 2px solid rgb(15, 14, 15); 
     transform: scale(1.02);
     border-radius: 10px;
 }
