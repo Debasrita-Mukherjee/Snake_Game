@@ -34,7 +34,7 @@
 
 #board{
     background: linear-gradient(rgb(1, 75, 1), rgb(160, 160, 38));
-    width: 90vmin;
+    width: 92vmin;
     height: 92vmin;
     border: 2px solid rgb(9, 5, 5);
     display: grid;
