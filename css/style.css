@@ -51,12 +51,12 @@
 
 .snake{
     background-color: rgb(97, 6, 97);
-    border: .25vmin solid rgb(189, 181, 181);
+    border: .24vmin solid rgb(189, 181, 181);
     border-radius: 12px;
 }
 
 .food{
-    background: linear-gradient(red, purple);
+    background: linear-gradient(rgb(208, 91, 91), purple);
     border: .25vmin solid black;
     border-radius: 8px;
 }
